@@ -9,7 +9,7 @@ Actualizado: 26/02/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> ECOGOLLO
 
 Descripción: 
 
