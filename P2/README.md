@@ -5,7 +5,6 @@
   ![feedback_capture_grid](Feedback_Capture_Grid.png)
   
 * Mapa de empatía
-* Point of View 
 
 
 ### PROPUESTA DE VALOR
