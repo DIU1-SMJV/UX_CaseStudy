@@ -13,7 +13,7 @@ Proyecto:
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Página web sencillamente visible y manejable para toda persona cuya función principal es que el cliente pueda comprar productos ecológicos y el productor pueda venderlos. Web enfocada en la transparencia entre cliente/productor y en los productos que se venden, a la vez que no se ponen inconvenientes en devoluciones de pedidos siempre que sean justificados. 
 
 Logotipo: 
 
