@@ -14,7 +14,29 @@ Proponemos desarrollar una página web para la venta/compra de productos ecológ
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix
+  | TAREA                                 | Visitante | Usuario registrado | Productor  | Administrador |
+|-----------------------------------------|-----------|--------------------|------------|---------------|
+| Buscar productos                        | H         | H                  | M          | L             | 
+| Ver detalles de un producto             | M         | H                  | M          | M             | 
+| Iniciar Sesión                          | -         | H                  | H          | H             | 
+| Filtrar productos por categoría         | M         | H                  | L          | L             | 
+| Ver pedidos en curso                    | -         | M                  | M          | L             | 
+| Añadir nuevos productos                 | -         | -                  | H          | M             | 
+| Gestionar productos                     | -         | -                  | H          | M             | 
+| Analizar métricas y ventas              | -         | -                  | M          | H             | 
+| Contactar con productor o cliente       | -         | L                  | L          | M             | 
+| Registrarse                             | H         | -                  | -          | -             | 
+| Añadir producto al carrito              | -         | H                  | -          | -             | 
+| Realizar pedido(comprar carrito)        | -         | H                  | -          | -             | 
+| Valorar producto/productor              | -         | M                  | -          | L             | 
+| Historial de compras                    | -         | M                  | -          | L             | 
+| Revisar y aprobar productos             | -         | -                  | -          | H             | 
+| Gestionar cuentas de usuario            | -         | -                  | -          | H             | 
+| Devolver pedido                         | -         | L                  | -          | -             |
+
+Leyenda: H = Alta prioridad / M = Media / L = Baja / - = No disponible para ese rol
+
 * User/Task flow
 
 
