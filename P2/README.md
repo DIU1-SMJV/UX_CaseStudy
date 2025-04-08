@@ -2,10 +2,10 @@
 
 ### Ideación 
 * Malla receptora de información
-  ![feedback_capture_grid](Feedback_Capture_Grid.png)
+  ![feedback capture_grid](Feedback_Capture_Grid.png)
   
 * Mapa de empatía
-
+![mapa de empatia](Mapa_de_empatia.png)
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
