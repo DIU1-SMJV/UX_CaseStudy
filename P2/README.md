@@ -53,7 +53,7 @@ Leyenda: H = Alta prioridad / M = Media / L = Baja / - = No disponible para ese 
 
 
 ### Conclusiones  
-En esta etapa hemos definido el camino que va a tomar nuestro proyecto con ideas futuras, pero actualmente proponiendo una funcionalidad cliente/productor sencilla para cualquier persona.
+En esta etapa hemos definido el camino que va a tomar nuestro proyecto añadiendo a su vez algunas ideas para incorporar a futuro, pero actualmente proponiendo una funcionalidad cliente/productor sencilla para cualquier persona.
 
 Hemos añadido el apartado de devolver pedido, que es algo que no hemos visto con facilidad en otros lugares de este mismo sector de la misma manera que una comunicación con el usuario y productor más sencilla. Otra implementación es poder ver a tiempo real por dónde va el pedido realizado, algo que funciona bien en otras webs, pero en este sector no hemos visto.
 
