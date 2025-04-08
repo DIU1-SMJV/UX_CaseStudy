@@ -119,7 +119,9 @@ Miembros:
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+>>> Hemos creado un Sitemap global con una leyenda para saber por dónde navega cada tipo de usuario según las tareas del User Flow especificado anteriormente, seguidamente añadido un Labelling con una breve descripción para saber de qué va cada página.
+>>>
+>>>  Para saber más [accede desde aquí.](P2/README.md/#arquitectura-de-información)
 
 Término | Significado     
 | ------------- | -------
