@@ -34,7 +34,7 @@ Proponemos desarrollar una página web para la venta/compra de productos ecológ
 | Historial de compras                    | -         | M                  | -          | L             | 
 | Revisar y aprobar productos             | -         | -                  | -          | H             | 
 | Gestionar cuentas de usuario            | -         | -                  | -          | H             | 
-| Devolver pedido                         | -         | L                  | -          | -             |
+| Devolver pedido                         | -         | L                  | -          | L             |
 
 
 
