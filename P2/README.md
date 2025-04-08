@@ -41,7 +41,7 @@ Proponemos desarrollar una página web para la venta/compra de productos ecológ
 Leyenda: H = Alta prioridad / M = Media / L = Baja / - = No disponible para ese rol
 
 * User/Task flow
-
+![userflow](Userflow.png)
 
 ### ARQUITECTURA DE INFORMACIÓN
 
