@@ -9,11 +9,11 @@ Actualizado: 26/02/2025
 
 Proyecto: 
 
->>> ECOGOLLO
+ECOGOLLO
 
 Descripción: 
 
->>> Página web sencillamente visible y manejable para toda persona cuya función principal es que el cliente pueda comprar productos ecológicos y el productor pueda venderlos. Web enfocada en la transparencia entre cliente/productor y en los productos que se venden, a la vez que no se ponen inconvenientes en devoluciones de pedidos siempre que sean justificados. 
+Página web sencillamente visible y manejable para toda persona cuya función principal es que el cliente pueda comprar productos ecológicos y el productor pueda venderlos. Web enfocada en la transparencia entre cliente/productor y en los productos que se venden, a la vez que no se ponen inconvenientes en devoluciones de pedidos siempre que sean justificados. 
 
 Logotipo: 
 
@@ -85,9 +85,9 @@ Miembros:
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
->>> Tras ver otras webs del sector, lo que más falla es la devolución del pedido y el contacto cliente/productor, aparte de que no son sencillas a la vista de los usuarios ni dan recompensas por comprar en su web.
->>> 
->>> Para acceder al feedback capture grid y empathy map: [accede desde aquí.](P2/README.md/#ideación)
+Tras ver otras webs del sector, lo que más falla es la devolución del pedido y el contacto cliente/productor, aparte de que no son sencillas a la vista de los usuarios ni dan recompensas por comprar en su web.
+ 
+Para acceder al feedback capture grid y empathy map: [accede desde aquí.](P2/README.md/#ideación)
 
 
  Interesante | Críticas     
@@ -95,33 +95,33 @@ Miembros:
   Preguntas | Nuevas ideas
   
     
->>> Proponemos desarrollar una página web para la venta/compra de productos ecológicos. Esta web te dejará crear una cuenta como comprador y otra cuenta como productor si lo que deseas es vender, el usuario tendrá un apartado llamado Mi Cuenta para editar su perfil, ver su historial de compras, sus pedidos en curso y valorar los productos comprados y sus productores, a la vez que puede hacer devoluciones y contactar con el productor de un producto en específico, poodrá crear y editar su carrito de la compra con productos que encuentre en el buscador, en el propio buscador podrá elegir la búsqueda por categorías, dejando a su vez añadir a favoritos las categorías que prefiera. El productor podrá añadir nuevos productos y gestionarlos. (Dar recompensas por comprar en la web es una implementación a futuro, de momento queremos centrarnos en las funciones necesarias para la página web)
+Proponemos desarrollar una página web para la venta/compra de productos ecológicos. Esta web te dejará crear una cuenta como comprador y otra cuenta como productor si lo que deseas es vender, el usuario tendrá un apartado llamado Mi Cuenta para editar su perfil, ver su historial de compras, sus pedidos en curso y valorar los productos comprados y sus productores, a la vez que puede hacer devoluciones y contactar con el productor de un producto en específico, poodrá crear y editar su carrito de la compra con productos que encuentre en el buscador, en el propio buscador podrá elegir la búsqueda por categorías, dejando a su vez añadir a favoritos las categorías que prefiera. El productor podrá añadir nuevos productos y gestionarlos. (Dar recompensas por comprar en la web es una implementación a futuro, de momento queremos centrarnos en las funciones necesarias para la página web)
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor con ScopeCanvas, [accede desde aquí.](P2/README.md/#propuesta-de-valor)
+Propuesta de valor con ScopeCanvas, [accede desde aquí.](P2/README.md/#propuesta-de-valor)
 
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Hemos hecho un Task Matrix con las tareas que tiene nuestra página web para visitante, usuario registrado, productor y administrador, ordenadas de mayor a menor peso según el uso estimado que le va a dar cad tipo de usuario.
->> Hemos hecho un User Flow con el orden de tareas que pensamos que van a ser más comunes entre los distintos usuarios.
->>>
->>> Para saber más [accede desde aquí.](P2/README.md/#task-analysis)
+Hemos hecho un Task Matrix con las tareas que tiene nuestra página web para visitante, usuario registrado, productor y administrador, ordenadas de mayor a menor peso según el uso estimado que le va a dar cad tipo de usuario.
+Hemos hecho un User Flow con el orden de tareas que pensamos que van a ser más comunes entre los distintos usuarios.
+
+Para saber más [accede desde aquí.](P2/README.md/#task-analysis)
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Hemos creado un Sitemap global con una leyenda para saber por dónde navega cada tipo de usuario según las tareas del User Flow especificado anteriormente, seguidamente añadido un Labelling con una breve descripción para saber de qué va cada página.
->>>
->>>  Para saber más [accede desde aquí.](P2/README.md/#arquitectura-de-información)
+Hemos creado un Sitemap global con una leyenda para saber por dónde navega cada tipo de usuario según las tareas del User Flow especificado anteriormente, seguidamente añadido un Labelling con una breve descripción para saber de qué va cada página.
+
+Para saber más [accede desde aquí.](P2/README.md/#arquitectura-de-información)
 
 Término | Significado     
 | ------------- | -------
