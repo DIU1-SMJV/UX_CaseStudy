@@ -87,7 +87,7 @@ Miembros:
 
 >>> Tras ver otras webs del sector, lo que más falla es la devolución del pedido y el contacto cliente/productor, aparte de que no son sencillas a la vista de los usuarios ni dan recompensas por comprar en su web.
 >>> 
->>> Para acceder al feedback capture grid y empathy map: [accede desde aquí.](P2/RADME.md/#ideación)
+>>> Para acceder al feedback capture grid y empathy map: [accede desde aquí.](P2/README.md/#ideación)
 
 
  Interesante | Críticas     
