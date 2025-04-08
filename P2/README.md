@@ -22,10 +22,10 @@ Proponemos desarrollar una página web para la venta/compra de productos ecológ
 | Ver detalles de un producto             | M         | H                  | M          | M             | 
 | Iniciar Sesión                          | -         | H                  | H          | H             | 
 | Filtrar productos por categoría         | M         | H                  | L          | L             | 
+| Analizar métricas y ventas              | -         | -                  | H          | H             |
 | Ver pedidos en curso                    | -         | M                  | M          | L             | 
 | Añadir nuevos productos                 | -         | -                  | H          | M             | 
-| Gestionar productos                     | -         | -                  | H          | M             | 
-| Analizar métricas y ventas              | -         | -                  | M          | H             | 
+| Gestionar productos                     | -         | -                  | H          | M             |  
 | Contactar con productor o cliente       | -         | L                  | L          | M             | 
 | Registrarse                             | H         | -                  | -          | -             | 
 | Añadir producto al carrito              | -         | H                  | -          | -             | 
