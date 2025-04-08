@@ -109,7 +109,10 @@ Miembros:
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+>>> Hemos hecho un Task Matrix con las tareas que tiene nuestra página web para visitante, usuario registrado, productor y administrador, ordenadas de mayor a menor peso según el uso estimado que le va a dar cad tipo de usuario.
+>> Hemos hecho un User Flow con el orden de tareas que pensamos que van a ser más comunes entre los distintos usuarios.
+>>>
+>>> Para saber más [accede desde aquí.](P2/README.md/#task-analysis)
 
 
 ### 2.c IA: Sitemap + Labelling 
