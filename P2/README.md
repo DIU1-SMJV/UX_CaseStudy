@@ -15,6 +15,7 @@ Proponemos desarrollar una página web para la venta/compra de productos ecológ
 ### TASK ANALYSIS
 
 * User Task Matrix
+  
 | TAREA                                   | Visitante | Usuario registrado | Productor  | Administrador |
 |-----------------------------------------|-----------|--------------------|------------|---------------|
 | Buscar productos                        | H         | H                  | M          | L             | 
@@ -34,6 +35,7 @@ Proponemos desarrollar una página web para la venta/compra de productos ecológ
 | Revisar y aprobar productos             | -         | -                  | -          | H             | 
 | Gestionar cuentas de usuario            | -         | -                  | -          | H             | 
 | Devolver pedido                         | -         | L                  | -          | -             |
+
 
 
 Leyenda: H = Alta prioridad / M = Media / L = Baja / - = No disponible para ese rol
