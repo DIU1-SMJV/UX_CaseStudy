@@ -133,7 +133,11 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Hemos planteado un diseño minimalista para la creación de las 3 páginas que consideramos más importantes en común con el visitante y usuario registrado.
+
+Hemos utilizado Figma para crear tanto el modelo de web, como el de tablet y móvil.
+
+Para saber más [accede desde aquí.](P2/README.md/#prototipo-lo-fi-wireframe)
 
 <br>
 
