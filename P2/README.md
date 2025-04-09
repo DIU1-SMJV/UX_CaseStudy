@@ -79,5 +79,5 @@ En esta etapa hemos definido el camino que va a tomar nuestro proyecto añadiend
 
 Hemos añadido el apartado de devolver pedido, que es algo que no hemos visto con facilidad en otros lugares de este mismo sector de la misma manera que una comunicación con el usuario y productor más sencilla. Otra implementación es poder ver a tiempo real por dónde va el pedido realizado, algo que funciona bien en otras webs, pero en este sector no hemos visto.
 
-En definitiva, hemos querido aportar una web sencilla sin muchas florituras ni botones para que cualquier persona pueda navegar cómodamente sin perderse y sin saturarse, añadiendo la opción de favoritos para encontrar tu categoría rápidamente y, por ejemplo, en el propio apartado Mi Cuenta, puedes acceder tanto a tu perfil, como al historial de compras y pedidos en curso sin necesidad de que te dirija a otra página.
+En definitiva, hemos querido aportar una web sencilla sin muchas florituras ni botones para que cualquier persona pueda navegar cómodamente sin perderse y sin saturarse, añadiendo la opción de favoritos para encontrar tu categoría rápidamente y, por ejemplo, en el propio apartado Mi Cuenta, puedes acceder tanto a tu perfil, como a la bandeja de entrada, como al historial de compras y pedidos en curso sin necesidad de que te dirija a otra página.
 
