@@ -52,12 +52,35 @@ Leyenda: H = Alta prioridad / M = Media / L = Baja / - = No disponible para ese 
 ### Prototipo Lo-FI Wireframe 
 Hemos creado los prototipos Lo-FI responsive de posiblemente las 3 páginas que más vayan a usar tanto los visitantes como los usuarios registrados.
 
-* Boceto Inicio
-  ![desktop1](Boceto_Inicio/Desktop.png) ![tablet1](Boceto_Inicio/Tablet.png) ![mobile1](Boceto_Inicio/Mobile.png)
+* Bocetos Inicio
+  Para PC:
+    ![desktop1](Boceto_Inicio/Desktop.png)
+
+  Para tablet:
+    ![tablet1](Boceto_Inicio/Tablet.png)
+
+  Para movil:
+    ![mobile1](Boceto_Inicio/Mobile.png)
+  
 * Boceto Buscar Productos
-  ![desktop2](Sitemap.png) ![tablet2](BocetoSitemap.png) ![mobile2](Sitemap.png)
+  Para PC:
+    ![desktop1](Boceto_Buscar_Productos/Desktop.png)
+
+  Para tablet:
+    ![tablet1](Boceto_Buscar_Productos/Tablet.png)
+
+  Para movil:
+    ![mobile1](Boceto_Buscar_Productos/Mobile.png)
+  
 * Boceto Detalles producto
-  ![desktop3](Sitemap.png) ![tablet3](Sitemap.png) ![mobile3](Sitemap.png)
+  Para PC:
+    ![desktop1](Boceto_Detalles_producto/Desktop.png)
+
+  Para tablet:
+    ![tablet1](Boceto_Detalles_producto/Tablet.png)
+
+  Para movil:
+    ![mobile1](Boceto_Detalles_producto/Mobile.png)
 
 ### Conclusiones  
 En esta etapa hemos definido el camino que va a tomar nuestro proyecto añadiendo a su vez algunas ideas para incorporar a futuro, pero actualmente proponiendo una funcionalidad cliente/productor sencilla para cualquier persona.
