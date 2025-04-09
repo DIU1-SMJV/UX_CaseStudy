@@ -50,7 +50,14 @@ Leyenda: H = Alta prioridad / M = Media / L = Baja / - = No disponible para ese 
 
 
 ### Prototipo Lo-FI Wireframe 
+Hemos creado los prototipos Lo-FI responsive de posiblemente las 3 páginas que más vayan a usar tanto los visitantes como los usuarios registrados.
 
+* Boceto Inicio
+  ![desktop](Sitemap.png) ![tablet](Sitemap.png) ![movil](Sitemap.png)
+* Boceto Buscar Productos
+  ![desktop](Sitemap.png) ![tablet](BocetoSitemap.png) ![movil](Sitemap.png)
+* Boceto Detalles producto
+  ![desktop](Sitemap.png) ![tablet](Sitemap.png) ![movil](Sitemap.png)
 
 ### Conclusiones  
 En esta etapa hemos definido el camino que va a tomar nuestro proyecto añadiendo a su vez algunas ideas para incorporar a futuro, pero actualmente proponiendo una funcionalidad cliente/productor sencilla para cualquier persona.
