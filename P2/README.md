@@ -44,9 +44,9 @@ Leyenda: H = Alta prioridad / M = Media / L = Baja / - = No disponible para ese 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
-  ![sitemap](sitemap.png)
+  ![sitemap](Sitemap.png)
 * Labelling
-  ![labelling](Labelling.png)
+  ![labelling](labelling.png)
 
 
 ### Prototipo Lo-FI Wireframe 
