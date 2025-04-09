@@ -54,9 +54,9 @@ Hemos creado los prototipos Lo-FI responsive de posiblemente las 3 páginas que 
 
 #### Bocetos Inicio
   * Para PC/tablet/movil:
-    ![desktop1](Boceto_Inicio/Desktop.png)
-    ![tablet1](Boceto_Inicio/Tablet.png)
-    ![mobile1](Boceto_Inicio/Mobile.png)
+    ![desktop1](Boceto_inicio/Desktop.png)
+    ![tablet1](Boceto_inicio/Tablet.png)
+    ![mobile1](Boceto_inicio/Mobile.png)
   
 #### Bocetos Buscar Productos
   * Para PC/tablet/movil:
