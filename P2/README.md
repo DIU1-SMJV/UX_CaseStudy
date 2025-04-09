@@ -28,6 +28,7 @@ Proponemos desarrollar una página web para la venta/compra de productos ecológ
 | Gestionar productos                     | -         | -                  | H          | M             |  
 | Contactar con productor o cliente       | -         | L                  | L          | M             | 
 | Registrarse                             | H         | -                  | -          | -             | 
+| Ver Carrito                             | -         | H                  | -          | -             | 
 | Añadir producto al carrito              | -         | H                  | -          | -             | 
 | Realizar pedido(comprar carrito)        | -         | H                  | -          | -             | 
 | Valorar producto/productor              | -         | M                  | -          | L             | 
