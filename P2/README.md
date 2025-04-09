@@ -53,7 +53,7 @@ Leyenda: H = Alta prioridad / M = Media / L = Baja / - = No disponible para ese 
 Hemos creado los prototipos Lo-FI responsive de posiblemente las 3 páginas que más vayan a usar y tienen en común los visitantes y usuarios registrados.
 
 #### Bocetos Inicio
-  * Para PC/tablet/móvil:
+  * Para web/tablet/móvil:
     ![desktop1](Boceto_inicio/Desktop.png)
     ![tablet1](Boceto_inicio/Tablet.png)
     ![mobile1](Boceto_inicio/Mobile.png)
