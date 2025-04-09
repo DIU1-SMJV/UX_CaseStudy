@@ -29,7 +29,8 @@ Nuestra propuesta tiene como mayor valor realizar las funciones donde cojean las
 | Ver pedidos en curso                    | -         | M                  | M          | L             | 
 | Añadir nuevos productos                 | -         | -                  | H          | M             | 
 | Gestionar productos                     | -         | -                  | H          | M             |  
-| Contactar con productor o cliente       | -         | L                  | L          | M             | 
+| Contactar con productor o cliente       | -         | L                  | L          | M             |
+| Devolver pedido                         | -         | H                  | -          | -             |
 | Registrarse                             | H         | -                  | -          | -             | 
 | Ver Carrito                             | -         | H                  | -          | -             | 
 | Añadir producto al carrito              | -         | H                  | -          | -             | 
@@ -38,7 +39,6 @@ Nuestra propuesta tiene como mayor valor realizar las funciones donde cojean las
 | Historial de compras                    | -         | M                  | -          | L             | 
 | Revisar y aprobar productos             | -         | -                  | -          | H             | 
 | Gestionar cuentas de usuario            | -         | -                  | -          | H             | 
-| Devolver pedido                         | -         | L                  | -          | L             |
 
 Leyenda: H = Alta prioridad / M = Media / L = Baja / - = No disponible para ese rol
 
