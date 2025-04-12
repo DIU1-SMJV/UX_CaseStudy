@@ -17,14 +17,14 @@ Nuestra propuesta tiene como mayor valor realizar las funciones donde cojean las
 
 ### TASK ANALYSIS
 
-* User Task Matrix
+* User Task Matrix (las tareas por encima de la línea, son las de mayor prioridad)
   
 | TAREA                                   | Visitante | Usuario registrado | Productor  | Administrador |
 |-----------------------------------------|-----------|--------------------|------------|---------------|
 | Buscar productos                        | H         | H                  | M          | L             | 
 | Ver detalles de un producto             | M         | H                  | M          | M             | 
 | Iniciar Sesión                          | -         | H                  | H          | H             | 
-|-----------------------------------------|-----------|--------------------|------------|---------------|
+---------------------------------------------------------------------------------------------------------
 | Filtrar productos por categoría         | M         | H                  | L          | L             | 
 | Analizar métricas y ventas              | -         | -                  | H          | H             |
 | Ver pedidos en curso                    | -         | M                  | M          | L             | 
