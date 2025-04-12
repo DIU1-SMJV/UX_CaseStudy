@@ -48,7 +48,7 @@ Leyenda: H = Alta prioridad / M = Media / L = Baja / - = No disponible para ese 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
-  ![sitemap](Sitemap.png)
+  ![sitemap](sitemap.png)
 * Labelling
   ![labelling](labelling.png)
 
