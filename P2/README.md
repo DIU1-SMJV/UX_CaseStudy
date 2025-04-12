@@ -17,7 +17,7 @@ Nuestra propuesta tiene como mayor valor realizar las funciones donde cojean las
 
 ### TASK ANALYSIS
 
-* User Task Matrix (las tareas por encima de la línea, son las de mayor prioridad)
+* User Task Matrix (las tareas por encima de la línea son las de mayor prioridad conjunta entre los 4 posibles roles)
   
 | TAREA                                   | Visitante | Usuario registrado | Productor  | Administrador |
 |-----------------------------------------|-----------|--------------------|------------|---------------|
