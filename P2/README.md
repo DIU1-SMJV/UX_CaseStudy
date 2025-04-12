@@ -24,7 +24,7 @@ Nuestra propuesta tiene como mayor valor realizar las funciones donde cojean las
 | Buscar productos                        | H         | H                  | M          | L             | 
 | Ver detalles de un producto             | M         | H                  | M          | M             | 
 | Iniciar Sesión                          | -         | H                  | H          | H             | 
-|-------------------------------------------------------------------------------------------------------|
+|-----------------------------------------|-----------|--------------------|------------|---------------
 | Filtrar productos por categoría         | M         | H                  | L          | L             | 
 | Analizar métricas y ventas              | -         | -                  | H          | H             |
 | Ver pedidos en curso                    | -         | M                  | M          | L             | 
