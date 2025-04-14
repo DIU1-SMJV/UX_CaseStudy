@@ -77,7 +77,7 @@ Hemos creado los prototipos Lo-FI responsive de posiblemente las 3 páginas que 
     
 #### Bocetos Iniciar Sesión
   * Para web/tablet/móvil: Este boceto representa el inicio de sesión genérico, no está representado el inicio de sesión separado de cliente y productor, se actualizará más adelante
-    ![desktop1](Boceto_Iniciar_Sesion/IniciarSesionDesktop.PNG)
+    ![desktop1](Boceto_Iniciar_Sesion/IniciarSesiónDesktop.PNG)
     ![tablet1](Boceto_Iniciar_Sesion/IniciarSesionTablet.PNG)
     ![mobile1](Boceto_Iniciar_Sesion/IniciarSesionMobile.PNG)
 
