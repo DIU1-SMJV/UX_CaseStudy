@@ -74,6 +74,12 @@ Hemos creado los prototipos Lo-FI responsive de posiblemente las 3 páginas que 
     ![desktop1](Boceto_Detalles_producto/Desktop.png)
     ![tablet1](Boceto_Detalles_producto/Tablet.png)
     ![mobile1](Boceto_Detalles_producto/Mobile.png)
+    
+#### Bocetos Detalles producto
+  * Para web/tablet/móvil:
+    ![desktop1](Boceto_Iniciar_Sesion/Iniciar_Sesion_Desktop.png)
+    ![tablet1](Boceto_Iniciar_Sesion/Iniciar_Sesion_Tablet.png)
+    ![mobile1](Boceto_Iniciar_Sesion/Iniciar_Sesion_Mobile.png)
 
 ### Conclusiones  
 En esta etapa hemos definido el camino que va a tomar nuestro proyecto añadiendo a su vez algunas ideas para incorporar a futuro, pero actualmente proponiendo una funcionalidad cliente/productor sencilla para cualquier persona.
