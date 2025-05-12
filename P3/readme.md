@@ -3,6 +3,7 @@
 - Moodboard (diseño visual + logotipo)   
 - Landing Page
 - Guidelines
+
 Onboarding:
 La pantalla de inicio funciona como una introducción para el usuario. En ella se destacan las ofertas especiales y de temporada, con imágenes llamativas de productos ecológicos y mensajes de bienvenida como “Sabor y frescura en cada cogollo”. Es una entrada visual, directa y con CTA inmediata hacia el catálogo.
 
