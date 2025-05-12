@@ -46,10 +46,10 @@ Buy Product (Añadir al carrito):
 Desde la ficha del producto, el usuario puede seleccionar la cantidad deseada y añadir el artículo al carrito con un botón claro y centrado. Se muestra también la fecha estimada de entrega, lo que genera confianza y transparencia.
 
 Shopping Cart (Carrito):
-Pantalla flotante o modal lateral donde se resumen los productos seleccionados, sus cantidades, precios individuales y el total a pagar. Incluye un botón destacado “Comprar carrito” como llamada principal a la acción.
+Pantalla flotante o modal lateral donde se resumen en formato vertical los productos seleccionados, sus cantidades, precios individuales y el total a pagar. Cada producto incluye una X en el lateral superior izquierdo, donde puedes eliminar el producto del carrito, y a su vez un botón detalles producto en cada uno para acceder a sus detalles independientemente de donde te encuentres, el Carrito dispone de un botón destacado “Comprar carrito” como llamada principal a la acción.
 
 Login (Formulario de inicio de sesión):
-Diseñado para dos tipos de usuario: Cliente y Productor. Tiene campos separados para cada uno, enlaces para recuperar contraseña y registrarse, y un diseño limpio con el logo de Ecogollo reforzando la identidad.
+Diseñado para dos tipos de usuario: Cliente y Productor. Tiene campos separados para cada uno, enlaces para recuperar contraseña y registrarse, y un diseño limpio con el logo de Ecogollo reforzando la identidad. (No hemos incluido el iniciar sesión de administrador como aparece en el Sitemap porque consideramos que es una función demasiado confidencial, por lo que únicamente saldrá la opción de iniciar como administrador a los nombrados por la empresa).
 
 Footer:
 Ubicado al final de cada pantalla, con enlaces legales visibles: “Política de Privacidad” y “Términos de Servicio”. Letra pequeña, discreta y siempre sobre fondo claro, manteniendo accesibilidad sin distraer al usuario.
