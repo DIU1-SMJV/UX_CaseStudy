@@ -45,6 +45,9 @@ Botón directo para contactar con el productor
 Buy Product (Añadir al carrito):
 Desde la ficha del producto, el usuario puede seleccionar la cantidad deseada y añadir el artículo al carrito con un botón claro y centrado. Se muestra también la fecha estimada de entrega, lo que genera confianza y transparencia.
 
+Category List(Categorías):
+Desde la página buscar productos hay un botón "CATEGORÍAS" que al hacer click encima de él te muestra una lista de categorías con simulación de favoritos mediante un corazón al lado de cada categoría y una lista de favoritos al costado izquierdo.
+
 Shopping Cart (Carrito):
 Pantalla flotante o modal lateral donde se resumen en formato vertical los productos seleccionados, sus cantidades, precios individuales y el total a pagar. Cada producto incluye una X en el lateral superior izquierdo, donde puedes eliminar el producto del carrito, y a su vez un botón detalles producto en cada uno para acceder a sus detalles independientemente de donde te encuentres, el Carrito dispone de un botón destacado “Comprar carrito” como llamada principal a la acción.
 
