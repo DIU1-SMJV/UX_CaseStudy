@@ -35,8 +35,8 @@
 ### Onboarding
 
 La pantalla de inicio funciona como una introducción para el usuario.  
-En ella se destacan las ofertas especiales y de temporada, con imágenes llamativas de productos ecológicos y mensajes de bienvenida como:  
-**“Sabor y frescura en cada cogollo”**.  
+En ella se destacan las ofertas especiales y de temporada, con imágenes llamativas de productos ecológicos y el slogan:  
+**“Sabor y frescura en cada bocado, cuida la Tierra con Ecogollo”**.  
 Es una entrada visual, directa y con CTA inmediata hacia el catálogo.
 
 ### Menú (adaptado a móvil)
@@ -147,6 +147,29 @@ Ubicado al final de cada pantalla, incluye:
 - Siempre sobre fondo claro, manteniendo accesibilidad
 
 ##Mockup: LAYOUT HI-FI
+
+- Número de bocetos de calidad elevada: 14.
+  
+- La mitad de los bocetos son del modo normal y la otra mitad del modo noche, con navegación entre ellos para cambiar de modo sin salirte de la página en la que te encuentras, la activación del modo se encuentra en el menú de navegación de la esquina superior derecha de cualquier página.
+  
+- Hemos creado el modo noche tanto para la adaptación de luminosidad del usuario como para un uso de colores que no afecte a la persona daltónica, puesto que el color de fondo del modo normal podría afectar en cierto modo siendo más grisaceo o amarillo oscuro para sus ojos.
+  
+- Cubrimos las tareas claves seleccionadas en la P2 junto con tareas adicionales que hemos querido añadir, todas con las interacciones y navegaciones pertinentes, cada página tiene su breadcrumb correspondiente.
+  
+- Bocetos hechos:
+  - **"Inicio"** -> página principal accesible desde el menú o haciendo click en el logo.
+  - **"Buscar productos"** -> página accesible desde el menú o desde el botón buscar productos de la página Inicio.  
+  - **"Detalles producto"** -> página accesible desde el botón detalles producto encontrado en las páginas Inicio, Buscar productos y Carrito.
+  - **"Iniciar sesion"** -> página accesible desde el menú.
+  - **"Menú"** -> overlay accesible desde cualquier página en la esquina superior derecha.
+  - **"Carrito"** -> overlay accesible desde el botón Ver carrito encontrado en las páginas Buscar productos y Detalles producto.
+  - **"Categorias"** -> overlay accesible desde el botón Categorías encontrado en la página Buscar productos.
+
+- Representación del mockup:
+  1.   ![mockup](HI-FI_movil_Ecogollo.png)
+  2.   https://www.figma.com/proto/A1GPjBDK52mfuo0mPMh47e/HI-FI-móvil-Ecogollo?node-id=1-92&p=f&t=ZzbyuyBjKnDuHpsm-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A92
+  3.   Video:
+       
 
 ##Publicación del Case Study
 
