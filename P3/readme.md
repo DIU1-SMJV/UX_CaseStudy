@@ -111,17 +111,17 @@ Desde la página **Buscar productos**, hay un botón **"CATEGORÍAS"** que al ha
 
 ### Shopping Cart (Carrito)
 
-Carrito en forma de:
+Carrito:
 
 - Pantalla flotante o modal lateral  
 - Resumen vertical de productos seleccionados  
-- Incluye: cantidades, precios individuales y total a pagar  
+- Incluye: cantidades, precios individuales y total a pagar
+- Botón principal: **“Comprar carrito”**
 
 Cada producto tiene:
 
 - Una **X** para eliminarlo  
 - Un botón de **"Detalles del producto"** accesible desde cualquier lugar  
-- Botón principal: **“Comprar carrito”**
 
 ### Login (Formulario de inicio de sesión)
 
@@ -134,7 +134,7 @@ Incluye:
 
 - Campos separados para cada tipo  
 - Enlaces para recuperar contraseña y registrarse  
-- Diseño limpio con el logo de **Ecogollo**  
+- Diseño limpio con el logo de **Ecogollo** y su slogan  
 
 > **Nota:** No se incluye la opción de iniciar sesión como administrador en el login visible, por ser una función confidencial. Solo estará disponible para usuarios autorizados por la empresa.
 
@@ -144,7 +144,7 @@ Ubicado al final de cada pantalla, incluye:
 
 - Enlaces legales: “Política de Privacidad” y “Términos de Servicio”  
 - Letra pequeña y discreta  
-- Siempre sobre fondo claro, manteniendo accesibilidad
+- Visible en cada página manteniendo accesibilidad
 
 ##Mockup: LAYOUT HI-FI
 
@@ -169,7 +169,7 @@ Ubicado al final de cada pantalla, incluye:
   1.   ![mockup](HI-FI_movil_Ecogollo.png)
   2.   https://www.figma.com/proto/A1GPjBDK52mfuo0mPMh47e/HI-FI-móvil-Ecogollo?node-id=1-92&p=f&t=ZzbyuyBjKnDuHpsm-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A92
   3.   Video:
-       
+       ![videoHI-FI](HI-FIECOGOLLO.mp4)
 
 ##Publicación del Case Study
 
