@@ -164,9 +164,12 @@ Ubicado al final de cada pantalla, incluye:
 
 - Representación del mockup:
   1.   ![mockup](HI-FI_movil_Ecogollo.png)
-  2.   https://www.figma.com/proto/A1GPjBDK52mfuo0mPMh47e/HI-FI-móvil-Ecogollo?node-id=1-92&p=f&t=ZzbyuyBjKnDuHpsm-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A92
-  3.   Video de ejemplo de uso del layout HI-FI:
-       [Ver video de demostración](./HI-FIECOGOLLO.mp4)
+  2.   Acceso al uso del layout HI-FI: https://www.figma.com/proto/A1GPjBDK52mfuo0mPMh47e/HI-FI-móvil-Ecogollo?node-id=1-92&p=f&t=ZzbyuyBjKnDuHpsm-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A92
+  3.   Demostración de ejemplo de uso del layout HI-FI:
+     [Ver video de demostración](./HI-FIECOGOLLO.mp4)
+  5.  Demostración en formato gif:
+     ![Demo en acción](HI-FIECOGOLLOgif.gif) 
+       
 
 ##Publicación del Case Study
 
