@@ -1,22 +1,33 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
-- Landing Page
-- Guidelines
+##Moodboard (diseño visual + logotipo)
+    - Con respecto a la paleta de colores sentimos que el contraste es óptimo para el ojo humano, testeado con otras personas para conocer opiniones. En cuanto       a color primario en modo normal tenemos #D6FF65 y de color secundario #1F2028, color que podemos presenciar en los encuadres de cada producto, en el            texto y en el Landing Page. Color primario del modo noche #1F2028 y color secundario #DDDDDD.
+    - En cuanto al tamaño del tipo de letra para el texto (Inter), solemos usar tamaño 16 pero en detalles producto usamos tamaño 20 para una visión mucho más        clara de todo lo que ofrece el producto. Para el tamaño del título de las páginas(Plus Jakarta Sans) usamos tamaño 24 y para el título de cada producto         tamaño 18.
+    - Resto de información en el moodboard:
+  ![moodboard](Moodboard.png)
+  
+##Landing Page
+  - Uso de fuentes/paleta/slogan/iconos del Moodboard
+  - Hay llamadas a acceder a la propia app en la que se basa nuestro mockup, a iniciar sesión(dentro se encuentra el registro si no eres usuario) y a ver los       detalles del producto más popular de la página.
+  - El figma tiene interacción con el botón "Accede a la app" el cual te lleva al figma del mockup layout HI-FI.
+  ![landingpage](LandingPage.png)
+
+##Guidelines
 
 Onboarding:
-La pantalla de inicio funciona como una introducción para el usuario. En ella se destacan las ofertas especiales y de temporada, con imágenes llamativas de productos ecológicos y mensajes de bienvenida como “Sabor y frescura en cada cogollo”. Es una entrada visual, directa y con CTA inmediata hacia el catálogo.
 
-Menu (adaptado a móvil):
+-La pantalla de inicio funciona como una introducción para el usuario. En ella se destacan las ofertas especiales y de temporada, con imágenes llamativas de productos ecológicos y mensajes de bienvenida como “Sabor y frescura en cada cogollo”. Es una entrada visual, directa y con CTA inmediata hacia el catálogo.
+
+-Menu (adaptado a móvil):
 Menú tipo hamburguesa accesible desde la esquina superior derecha. Al pulsarlo, se despliega un panel vertical con enlaces a: Inicio, Buscar productos, Iniciar sesión, Preguntas frecuentes, Sobre nosotros, Contáctanos y activador de Modo Noche. Mantiene coherencia cromática con el fondo característico (#D6FF65).
 
-Carousel:
+-Carousel:
 No se emplea un carrusel como componente en scroll horizontal, pero el diseño de la pantalla de inicio simula un carrusel vertical, destacando productos en tarjetas apiladas con distintas promociones (ej. oferta especial o de temporada).
 
-Search:
+-Search:
 En la vista "Buscar productos", se incorpora una barra de búsqueda y un desplegable de categorías. Permite al usuario encontrar productos rápidamente por nombre o por tipo (como “Frutas” o “Verduras”), mostrando los resultados en formato tarjeta.
 
-Article List (Lista de productos):
+-Article List (Lista de productos):
 Utiliza tarjetas verticales en forma de columna para listar productos como “Aguacate”, “Zanahoria” o “Cerezas”. Cada tarjeta incluye:
 
 Imagen representativa
@@ -29,7 +40,7 @@ Descripción breve
 
 Botón para ver detalles
 
-Article Detail (Detalle del producto):
+-Article Detail (Detalle del producto):
 Al pulsar en un producto, se accede a su ficha completa. Esta incluye:
 
 Imagen principal del producto
@@ -42,22 +53,24 @@ Información adicional: ingredientes, descripción, productor
 
 Botón directo para contactar con el productor
 
-Buy Product (Añadir al carrito):
+-Buy Product (Añadir al carrito):
 Desde la ficha del producto, el usuario puede seleccionar la cantidad deseada y añadir el artículo al carrito con un botón claro y centrado. Se muestra también la fecha estimada de entrega, lo que genera confianza y transparencia.
 
-Category List(Categorías):
+-Category List(Categorías):
 Desde la página buscar productos hay un botón "CATEGORÍAS" que al hacer click encima de él te muestra una lista de categorías con simulación de favoritos mediante un corazón al lado de cada categoría y una lista de favoritos al costado izquierdo.
 
-Shopping Cart (Carrito):
+-Shopping Cart (Carrito):
 Pantalla flotante o modal lateral donde se resumen en formato vertical los productos seleccionados, sus cantidades, precios individuales y el total a pagar. Cada producto incluye una X en el lateral superior izquierdo, donde puedes eliminar el producto del carrito, y a su vez un botón detalles producto en cada uno para acceder a sus detalles independientemente de donde te encuentres, el Carrito dispone de un botón destacado “Comprar carrito” como llamada principal a la acción.
 
-Login (Formulario de inicio de sesión):
+-Login (Formulario de inicio de sesión):
 Diseñado para dos tipos de usuario: Cliente y Productor. Tiene campos separados para cada uno, enlaces para recuperar contraseña y registrarse, y un diseño limpio con el logo de Ecogollo reforzando la identidad. (No hemos incluido el iniciar sesión de administrador como aparece en el Sitemap porque consideramos que es una función demasiado confidencial, por lo que únicamente saldrá la opción de iniciar como administrador a los nombrados por la empresa).
 
 Footer:
 Ubicado al final de cada pantalla, con enlaces legales visibles: “Política de Privacidad” y “Términos de Servicio”. Letra pequeña, discreta y siempre sobre fondo claro, manteniendo accesibilidad sin distraer al usuario.
-- Mockup: LAYOUT HI-FI
-- Publicación del Case Study
+
+##Mockup: LAYOUT HI-FI
+
+##Publicación del Case Study
 
 ## Conclusiones
 
