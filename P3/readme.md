@@ -3,14 +3,11 @@
 ## Moodboard (diseño visual + logotipo)
 
 - Con respecto a la paleta de colores sentimos que el contraste es óptimo para el ojo humano, testeado con otras personas para conocer opiniones.  
-  En cuanto al color primario en modo normal tenemos `#D6FF65` y como color secundario `#1F2028`, color que podemos ver en los encuadres de cada producto,  
-  en el texto y en la Landing Page.  
+  En cuanto al color primario(fondo) en modo normal tenemos `#D6FF65` y como color secundario `#1F2028`, color que podemos ver en los encuadres de cada producto, en el texto y en la Landing Page.  
   Color primario del modo noche: `#1F2028` y color secundario: `#DDDDDD`.
 
-- En cuanto al tamaño del tipo de letra para el texto (**Inter**), solemos usar tamaño `16`,  
-  pero en detalles de producto usamos tamaño `20` para una visión mucho más clara de todo lo que ofrece el producto.  
-  Para el tamaño del título de las páginas (**Plus Jakarta Sans**) usamos tamaño `24`,  
-  y para el título de cada producto, tamaño `18`.
+- En cuanto al tamaño del tipo de letra para el texto (**Inter**), solemos usar tamaño `16`, pero en detalles de producto usamos tamaño `20` para una visión mucho más clara de todo lo que ofrece el producto.  
+  Para el tamaño del título de las páginas (**Plus Jakarta Sans**) usamos tamaño `24`, y para el título de cada producto, tamaño `18`.
 
 - Resto de información en el moodboard:
   
