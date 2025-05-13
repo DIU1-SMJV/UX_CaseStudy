@@ -143,7 +143,7 @@ Ubicado al final de cada pantalla, incluye:
 - Letra pequeña y discreta  
 - Visible en cada página manteniendo accesibilidad
 
-##Mockup: LAYOUT HI-FI
+## Mockup: LAYOUT HI-FI
 
 - Número de bocetos de calidad elevada: 14.
   
@@ -171,7 +171,7 @@ Ubicado al final de cada pantalla, incluye:
      ![Demo en acción](HI-FIECOGOLLOgif.gif) 
        
 
-##Publicación del Case Study
+## Publicación del Case Study
 
 ## Conclusiones
 
