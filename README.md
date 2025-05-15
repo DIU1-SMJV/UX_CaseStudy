@@ -17,7 +17,7 @@ ECOGOLLO se trata de una aplicación móvil que busca mejorar la experiencia tan
 
 Logotipo: 
 
-<br><img src="P3/Logo.png" width="300" /><br>
+<br><img src="P3/Logo.png" width="30" /><br>
 
 Eslogan: **"Sabor y frescura en cada bocado, cuida la Tierra con Ecogollo"**
 
@@ -38,7 +38,7 @@ Miembros:
 
 El User Research Plan tiene como objetivo comprender mejor las necesidades, motivaciones y barreras de los usuarios y proveedores del mercado ecológico.
 Para ello se han tratado los siguientes puntos: **Background**, **Objetivos**, **Research Methods**, **Research Scope & Focus Areas** y **Participant Recruiting**
-Para ver todo esto en detalle puedes acceder al pdf con toda la información [aquí](P1/User Research y Análisis de Competencia.pdf).
+Para ver todo esto en detalle puedes acceder al pdf con toda la información [aquí](P1/User%20Research%20y%20An%C3%A1lisis%20de%20Competencia.pdf).
 
 
 ### 1.b Competitive Analysis
