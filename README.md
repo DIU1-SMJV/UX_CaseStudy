@@ -208,14 +208,23 @@ Con solo un vistazo, el usuario debe entender que Ecogollo es una plataforma par
 
 Para acceder a la Landing Page pulse [aquí.](P3/readme.md#landing-page)
 
-
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+A partir del análisis de patrones de diseño y referencias de buenas prácticas, definimos unas guidelines específicas para Ecogollo que garantizan una experiencia clara, visualmente coherente y funcional en todas las plataformas.
 
+Estas son las principales decisiones tomadas:
+- Onboarding: La pantalla de inicio introduce al usuario de forma directa con promociones destacadas y el slogan “Sabor y frescura en cada bocado, cuida la Tierra con Ecogollo”, con CTA claro al catálogo.
+- Menú hamburguesa adaptado a móvil: Accesible desde cualquier página, con enlaces directos a secciones clave (Inicio, Buscar productos, FAQs, Contacto...) y un interruptor para modo oscuro.
+- Sistema de búsqueda y filtrado: Incorporamos una barra de búsqueda junto a un desplegable de categorías para facilitar el acceso a los productos según el tipo (frutas, verduras, etc.), con resultados en tarjetas visuales.
+- Diseño de productos en formato tarjeta: En las vistas de catálogo, los productos se presentan verticalmente con imagen, descripción, precio y botón de acción claro.
+- Ficha de producto detallada: Contiene toda la información relevante: imagen, precio, ingredientes, productor y opción directa de contacto. Permite seleccionar cantidad y añadir al carrito con un solo clic.
+- Carrito: Siempre accesible sin salir de la navegación. Resume productos añadidos, cantidades, total, y permite editar o eliminar artículos de forma intuitiva.
+- Formulario de inicio de sesión: Diferenciado por tipo de usuario (cliente o productor), con enlaces a recuperación de contraseña y registro. El acceso de administrador queda oculto y restringido.
+Footer: Presente en todas las pantallas, con enlaces a Política de Privacidad y Términos de Servicio, en formato discreto y claro.
+
+Para acceder a las Guidelines pulse [aquí.](P3/readme.md#guidelines)
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
