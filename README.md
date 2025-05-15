@@ -186,16 +186,27 @@ Con una interfaz accesible, opciones claras para comprar, vender o devolver prod
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Para el moodboard de Ecogollo queríamos transmitir frescura, accesibilidad y confianza, buscando una estética visual que reflejara los valores del consumo responsable y el compromiso ecológico.
+Nos planteamos: ¿Qué hace que un usuario confíe en una tienda ecológica online? ¿Cómo podemos crear una experiencia visual que resulte clara, coherente y accesible para cualquier tipo de usuario?
+Inspirados por entornos naturales y productos reales del mercado ecológico, construimos una paleta de colores que reflejara esa cercanía y limpieza:
+ - En modo claro: verde lima (#D6FF65) como color principal, combinado con un gris azulado oscuro (#1F2028).
+ - En modo oscuro: inversión de esos tonos con ajustes de contraste para mejor accesibilidad.
+Seleccionamos las tipografías Inter (para cuerpo de texto) y Plus Jakarta Sans (para títulos) por su excelente legibilidad y estilo moderno. También definimos dos variantes visuales (modo claro y nocturno) para adaptarse al entorno de cada usuario.
 
+![moodboard](P3/Moodboard.png)
+
+Para acceder al Moodboard completo pulse [aquí.](P3/readme.md#moodboard-diseño-visual--logotipo)
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+Para diseñar la Landing Page nos guiamos por el moodboard y las directrices visuales que ya habíamos definido. Queríamos que esta primera pantalla fuera directa y visualmente clara.
+Con solo un vistazo, el usuario debe entender que Ecogollo es una plataforma para comprar y vender productos ecológicos.
+
+![landing-page](P3/LandingPage.png)
+
+Para acceder a la Landing Page pulse [aquí.](P3/readme.md#landing-page)
 
 
 ### 3.c Guidelines
