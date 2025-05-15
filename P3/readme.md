@@ -173,7 +173,7 @@ Ubicado al final de cada pantalla, incluye:
 
 ## Publicación del Case Study
 
-##Briefing
+## Briefing
   - Herramientas utilizadas
   | Categoría     | Herramienta                               | Uso principal                                      |
   |---------------|-------------------------------------------|----------------------------------------------------|
@@ -189,7 +189,7 @@ Ubicado al final de cada pantalla, incluye:
   -Propuestas de mejora en la asignatura
     - Añadir una rúbrica explícita de **accesibilidad**.
 
-## Conclusiones
+## Conclusiones
 
 - Tras finalizar la práctica y realizar muchas pruebas con los modelos HI-FI hemos detectado bastantes cosas:
   - El flujo de compra es muy intuitivo para nuevos usuarios tardando menos de 30 segundos en completar un ciclo de compra de un producto.
