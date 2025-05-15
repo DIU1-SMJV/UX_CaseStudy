@@ -192,6 +192,6 @@ Nuestro Case Study ha sido publicado [aquí](https://github.com/DIU1-SMJV/UX_Cas
 
 - Tras finalizar la práctica y realizar muchas pruebas con los modelos HI-FI hemos detectado bastantes cosas:
   - El flujo de compra es muy intuitivo para nuevos usuarios tardando menos de 30 segundos en completar un ciclo de compra de un producto.
-  - Después de varias pruebas se ha comprobado que el uso del modo oscuro es superior ya que cansa menos la vista que el modo claro.
+  - Después de varias pruebas se ha comprobado que el uso del modo noche es superior ya que cansa menos la vista que el modo claro.
 - En general el equipo ha quedado bastante contento con el resultado de la práctica y se espera que el resultado final sea una aplicación fiable, y óptima para cualquier tipo de usuario, ya sea alguien que nunca ha realizado una compra online o gente que realice pedidos habitualmente.
 
