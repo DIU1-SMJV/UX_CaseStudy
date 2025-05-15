@@ -174,12 +174,10 @@ Ubicado al final de cada pantalla, incluye:
 ## Publicación del Case Study
 
 ## Briefing
-  - Herramientas utilizadas
-  | Categoría     | Herramienta                               | Uso principal                                      |
-  |---------------|-------------------------------------------|----------------------------------------------------|
-  | Diseño UI     | **Figma**                                 | Wireframes, prototipo interactivo                  |
-  | Tipografía    | **Google Fonts**                          | Fuentes web y app                                  |
-  | Gestión       | **GitHub**                                | Publicación de todos los apartados de la práctica  |
+  - Herramientas utilizadas:
+  1. **Figma** → Se ha utilizado para desarrollar tanto los Wireframes como el prototipo interactivo.  
+  2. **Google Fonts** → Su función ha sido definir las fuentes que se van a utilizar dentro de la aplicación. 
+  3. **GitHub** → Se ha utilizado para publicar todos los apartados de la práctica y poner en común las ideas del equipo.
 
   - Dificultades encontradras
   1. **Contraste con paleta lima** → elegimos un color bastante extravagante por lo que combinarlo con los demás elementos de la aplicación ha sido un trabajo complicado aunque el resultado final es muy bueno.  
