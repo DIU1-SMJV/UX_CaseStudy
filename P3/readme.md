@@ -172,6 +172,7 @@ Ubicado al final de cada pantalla, incluye:
        
 
 ## Publicación del Case Study
+Nuestro Case Study ha sido publicado [aquí]([https://www.youtube.com/watch?v=_ayJhUkMq-k](https://github.com/DIU1-SMJV/UX_CaseStudy?tab=readme-ov-file#proceso-de-dise%C3%B1o)). 
 
 ## Briefing
   - Herramientas utilizadas:
