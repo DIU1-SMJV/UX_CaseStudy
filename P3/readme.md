@@ -173,7 +173,26 @@ Ubicado al final de cada pantalla, incluye:
 
 ## Publicación del Case Study
 
+##Briefing
+  - Herramientas utilizadas
+  | Categoría     | Herramienta                               | Uso principal                                      |
+  |---------------|-------------------------------------------|----------------------------------------------------|
+  | Diseño UI     | **Figma**                                 | Wireframes, prototipo interactivo                  |
+  | Tipografía    | **Google Fonts**                          | Fuentes web y app                                  |
+  | Gestión       | **GitHub**                                | Publicación de todos los apartados de la práctica  |
+
+  - Dificultades encontradras
+  1. **Contraste con paleta lima** → elegimos un color bastante extravagante por lo que combinarlo con los demás elementos de la aplicación ha sido un trabajo complicado aunque el resultado final es muy bueno.  
+  2. **Dark / Light Mode** → sincronizar imágenes e iconos para evitar problemas al cambiar entre el modo claro y oscuro.  
+  3. **Ajuste de elementos** → problemas para ajustar todos los elementos a la pantalla que se elegió iPhone 16.
+
+  -Propuestas de mejora en la asignatura
+    - Añadir una rúbrica explícita de **accesibilidad**.
+
 ## Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+- Tras finalizar la práctica y realizar muchas pruebas con los modelos HI-FI hemos detectado bastantes cosas:
+  - El flujo de compra es muy intuitivo para nuevos usuarios tardando menos de 30 segundos en completar un ciclo de compra de un producto.
+  - Después de varias pruebas de ha comprobado que el uso del modo oscuro es superior ya que cansa menos la vista que el modo claro.
+- En general el equipo ha quedado bastante contento con el resultado de la práctica y se espera que el resultado final sea una aplicación fiable, y óptima para cualquier tipo de usuario, ya sea alguien que nunca ha realizado una compra online o gente que realice pedidos habitualmente.
+
