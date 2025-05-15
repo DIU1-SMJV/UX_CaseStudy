@@ -230,8 +230,19 @@ Para acceder a las Guidelines pulse [aquí.](P3/readme.md#guidelines)
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+Para representar visualmente la experiencia de usuario de Ecogollo, hemos desarrollado un prototipo de alta fidelidad (HI-FI) compuesto por 14 pantallas, divididas entre modo claro y modo noche, accesibles desde el menú de navegación.
+El mockup simula tareas clave como:
+- Navegar por categorías
+- Buscar productos
+- Ver detalles y añadir al carrito
+- Iniciar sesión como cliente o productor
 
+Todas las páginas incluyen interacciones reales y una navegación coherente. El modo noche ha sido diseñado también pensando en personas con sensibilidad visual o daltonismo.
+
+Vista Previa
+![mockup](P3/HI-FI_movil_Ecogollo.png)
+
+Para acceder al Mockup pulse [aquí.](P3/readme.md#mockup-layout-hi-fi)
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
