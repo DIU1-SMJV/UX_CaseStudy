@@ -1,11 +1,11 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Mercados ecológicos ) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
 Grupo: DIU1_SMJV.  Curso: 2024/25 
 
-Actualizado: 26/02/2025
+Actualizado: 08/05/2025
 
 Proyecto: 
 
@@ -13,38 +13,32 @@ ECOGOLLO
 
 Descripción: 
 
-Página web sencillamente visible y manejable para toda persona cuya función principal es que el cliente pueda comprar productos ecológicos y el productor pueda venderlos. Web enfocada en la transparencia entre cliente/productor y en los productos que se venden, a la vez que no se ponen inconvenientes en devoluciones de pedidos siempre que sean justificados. 
+ECOGOLLO se trata de una aplicación móvil que busca mejorar la experiencia tanto de productores como de consumidores de productos ecológicos en cuanto a la compra, venta, distribución y entrega de productos, además de hacer mucho más amena la forma en la que se trabaja con la aplicación.
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+<br><img src="P3/Logo.png" width="300" /><br>
+
+Eslogan: **"Sabor y frescura en cada bocado, cuida la Tierra con Ecogollo"**
 
 Miembros:
  * :bust_in_silhouette:  Sergio Medina     :octocat: [@sergiomedi](https://github.com/sergiomedi)
  * :bust_in_silhouette:  Javier Ruiz de Valdivia     :octocat: [@Javito115](https://github.com/Javito115)
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
 
 # Proceso de Diseño 
 
 <br>
 
 ## Paso 1. UX User & Desk Research & Analisis 
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+El User Research Plan tiene como objetivo comprender mejor las necesidades, motivaciones y barreras de los usuarios y proveedores del mercado ecológico.
+Para ello se han tratado los siguientes puntos: **Background**, **Objetivos**, **Research Methods**, **Research Scope & Focus Areas** y **Participant Recruiting**
+Para ver todo esto en detalle puedes acceder al pdf con toda la información [aquí](P1/User Research y Análisis de Competencia.pdf).
 
 
 ### 1.b Competitive Analysis
