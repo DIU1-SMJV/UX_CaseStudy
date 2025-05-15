@@ -176,7 +176,10 @@ Para saber más [accede desde aquí.](P2/README.md/#prototipo-lo-fi-wireframe)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+Cansados de buscar sin éxito una plataforma ecológica clara, útil y práctica decidimos crear **ECOGOLLO**: una web donde comprar y vender productos ecológicos sea un proceso fácil, transparente y accesible para todos.
+Tras explorar distintas plataformas del mercado ecológico, nos dimos cuenta de que muchas eran confusas, poco accesibles o no ofrecían una comunicación directa con el productor. Algunas no facilitaban devoluciones, otras no transmitían confianza ni claridad en los productos ofertados.
+Esto nos impulsó a diseñar **ECOGOLLO**, una aplicación que va más allá del simple marketplace: una experiencia pensada para cuidar tanto del planeta como del usuario.
+Con una interfaz accesible, opciones claras para comprar, vender o devolver productos, y una apuesta futura por la personalización y recompensas para el usuario, **ECOGOLLO** nace como un entorno amigable, responsable y justo para todos los actores del ecosistema ecológico.
 
 
 ### 3.a Moodboard
