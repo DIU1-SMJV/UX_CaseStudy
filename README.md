@@ -92,10 +92,23 @@ Journey Map - Jaime Mellado
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+La evaluación de usabilidad realizada sobre Agroboca revela que la plataforma cumple de forma aceptable los objetivos principales del usuario, como comprar y vender productos ecológicos.
+Entre los puntos fuertes destacan:
+
+ - "Buen rendimiento general del sitio".
+ - "Accesos rápidos y visibles desde la página principal".
+ - "Compatibilidad con dispositivos y navegadores".
+ - "Sistema de búsqueda funcional aunque limitado".
+
+Sin embargo, se detectaron varios puntos débiles:
+ - "Ausencia de guía para usuarios nuevos".
+ - "Procesos poco divididos o estructurados en formularios".
+ - "Falta de accesibilidad visual (contraste y tipografía)".
+ - "Experiencia pobre para la ayuda al usuario".
+
+- Enlace al documento: [Usability Review](P1/Usability-review-agroboca.pdf)
+- Web evaluada: [Agroboca](https://www.agroboca.com/)
+- Valoración obtenida: **67/100**
 
 <br>
 
