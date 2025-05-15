@@ -17,7 +17,7 @@ ECOGOLLO se trata de una aplicación móvil que busca mejorar la experiencia tan
 
 Logotipo: 
 
-<br><img src="P3/Logo.png" width="30" /><br>
+<br><img src="P3/Logo.png" width="150" /><br>
 
 Eslogan: **"Sabor y frescura en cada bocado, cuida la Tierra con Ecogollo"**
 
