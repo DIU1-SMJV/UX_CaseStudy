@@ -186,7 +186,7 @@ Ubicado al final de cada pantalla, incluye:
   2. **Dark / Light Mode** → sincronizar imágenes e iconos para evitar problemas al cambiar entre el modo claro y oscuro.  
   3. **Ajuste de elementos** → problemas para ajustar todos los elementos a la pantalla que se elegió iPhone 16.
 
-  -Propuestas de mejora en la asignatura
+  - Propuestas de mejora en la asignatura:
     - Añadir una rúbrica explícita de **accesibilidad**.
 
 ## Conclusiones
