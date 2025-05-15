@@ -248,8 +248,9 @@ Para acceder al Mockup pulse [aquí.](P3/readme.md#mockup-layout-hi-fi)
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+A lo largo de la práctica hemos ido plasmando todo el desarrollo de nuestra aplicación y ha quedado definido en nuestro Case Study.
+
+Para acceder al Case Study pulse [aquí.](P3/readme.md#publicación-del-case-study)
 
 <br>
 
