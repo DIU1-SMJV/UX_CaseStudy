@@ -370,7 +370,10 @@ Para acceder al usability report de B pulse [aquí.](P4/Usability-Report-templat
 ## Conclusiones finales & Valoración de las prácticas
 
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+Ecogollo demuestra que una plataforma ecológica puede ser clara, accesible y fiable tanto para consumidores como para productores.
+La investigación con usuarios y la iteración del diseño se traducen en un 78/100 de usabilidad, superando a referencias del sector y validando nuestras decisiones.
+El prototipo ofrece una identidad visual coherente, flujos de compra fluidos y canales de devolución y contacto que resuelven los principales puntos de dolor detectados.
+Para la siguiente etapa necesitamos ampliar la muestra de pruebas, afinar la logística e implantar el sistema de recompensas para reforzar aún más la propuesta de valor.
 
 
 
