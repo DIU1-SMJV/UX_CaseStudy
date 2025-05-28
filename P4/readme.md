@@ -41,6 +41,22 @@ Instrucciones para participantes:
 4. Rellenar el cuestionario SUS
 
 - Realización del Cuestionario SUS para usuarios y casos A y B.
+Se ha realizado el siguiente cuestionario SUS para todos los usuarios y en la tabla de arriba está definida la puntuación de cada uno.
+
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+||PREGUNTAS|1|2|3|4|5|
+|1|Creo que me gustará visitar con frecuencia este website||||||
+|2|Encontré el website innecesariamente complejo||||||
+|3|Pensé que era fácil utilizar este website||||||
+|4|Creo que necesitaría del apoyo de un experto para recorrer el website||||||
+|5|Encontré las funciones del website bastante bien integradas||||||
+|6|Pensé que había demasiada inconsistencia en el website||||||
+|7|Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website||||||
+|8|Encontré el website muy grande al recorrerlo||||||
+|9|Me sentí muy confiado en el manejo del website||||||
+|10|Necesito aprender muchas cosas antes de manejarse en el website||||||
+
 - Tabla A/B Testing con resultados para A y B
 - Eye Tracking para B
 - Usability Report del Caso B, con toda la información recabada del caso B
