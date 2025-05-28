@@ -100,10 +100,10 @@ Checklist: 70 (Good).
 
 Resultado del Eye tracking
 
-![HeatMap 1][HeatMap.png](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/HeatMap.png)
-![AoI][Áreas%20de%20Interés%20(AoI).PNG](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/HeatMap2.PNG)
-![HeatMap 2][HeatMap2.PNG](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/%C3%81reas%20de%20Inter%C3%A9s%20(AoI).PNG)
-![AoI2][Áreas%20de%20Interés%20(AoI)%202.PNG](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/%C3%81reas%20de%20Inter%C3%A9s%20(AoI)%202.PNG)
+[HeatMap.png](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/HeatMap.png)
+[Áreas%20de%20Interés%20(AoI).PNG](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/HeatMap2.PNG)
+[HeatMap2.PNG](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/%C3%81reas%20de%20Inter%C3%A9s%20(AoI).PNG)
+[Áreas%20de%20Interés%20(AoI)%202.PNG](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/%C3%81reas%20de%20Inter%C3%A9s%20(AoI)%202.PNG)
 
 
 
