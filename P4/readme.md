@@ -48,6 +48,13 @@ Instrucciones para participantes:
   |     B     |    69,0   | Good |
 
 - Tabla A/B Testing con resultados para A y B
+
+  | Test/Métrica | A | B | Ganadora |
+  | ---------- | --------- | --------- | --------- |
+  |     SUS     | 78,1 | 69,0 | A |
+  |     Usability Checklist | 10 | 10 | 10 |
+  |     Eye-tracking     | 10 | 10 | 10 |
+
 - Eye Tracking para B
 - Usability Report del Caso B, con toda la información recabada del caso B
 
