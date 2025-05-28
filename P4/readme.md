@@ -60,7 +60,7 @@ Instrucciones para participantes:
   |     Usability Checklist | 76 - Good | 70 - Good | A |
   |     Tareas Maze | 73 | 55 | A |
   |     Preguntas Maze | 77 | 62 | A |
-  |     Total | 76,0 | 64 | A |
+  |     Media Total | 76,0 | 64 | A |
 
 - Eye Tracking para B
 ![HeatMap 1](HeatMap.png)
