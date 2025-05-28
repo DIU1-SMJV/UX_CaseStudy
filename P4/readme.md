@@ -42,8 +42,8 @@ Instrucciones para participantes:
 
   | Prototipo | Puntuación tareas | Puntuación preguntas |
   | ---------- | --------- | --------- |
-  |     A     |    78,1   | Excellent |
-  |     B     |    69,0   | Good |
+  |     A     |    73   | 77 |
+  |     B     |    55   | 62 |
 
 - Realización del Cuestionario SUS para usuarios y casos A y B.
 
@@ -57,7 +57,10 @@ Instrucciones para participantes:
   | Test/Métrica | A | B | Ganadora |
   | ---------- | --------- | --------- | --------- |
   |     SUS     | 78,1 - Excellent | 69,0 - Good | A |
-  |     Usability Checklist | 76 - Good | 70 - Good | B |
+  |     Usability Checklist | 76 - Good | 70 - Good | A |
+  |     Tareas Maze | 73 | 55 | A |
+  |     Preguntas Maze | 77 | 62 | A |
+  |     Total | 76,0 | 64 | A |
 
 - Eye Tracking para B
 ![HeatMap 1](HeatMap.png)
