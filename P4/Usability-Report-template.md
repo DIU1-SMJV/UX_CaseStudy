@@ -38,7 +38,10 @@ El informe ha sido realizado por el equipo SMJV, se han encontrado ciertos probl
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-El propósito de la app
+EcoPick es una tienda online de alimentación basada en productos ecológicos.
+• Objetivo de negocio: Promover el consumo responsable.
+• Público: Cualquier tipo de usuario que busque productos ecológicos.
+• Flujos críticos: registro / login, exploración de catálogo, añadir al carrito y checkout.
 
  
 
@@ -46,35 +49,48 @@ El propósito de la app
 
 ## 2 RESUMEN EJECUTIVO
 
+Se evaluó el prototipo B (EcoPick) con cuatro usuarios mediante Maze (tareas + encuesta), SUS y eye-tracking.
+Resultados principales:
 
+  | Indicador | Valor | Nivel |
+  | ---------- | --------- | --------- |
+  |     SUS     |    69,0   | Good |
+  |     Usability Checklist     |    70   | Good |
+  |     Tareas Maze     |    55   | Baja eficiencia  |
+  |     Preguntas Maze     |    62   | Aceptable  |
+  |     Eye Tracking     |    72   | Aprobado  |
 
-[ Breve descripción de lo que contiene el documento 
-
-y Resumen conciso de problemas detectados ]
-
-
-
-
-
-
-
+Problemas detectados (alto impacto)
+Falta de accesibilidad (modo oscuro)
+Falta feedback tras “Agregar al carrito”.
 
 
 ## 3 METODOLOGIA 
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+Técnicas aplicadas
+Tareas guiadas en Maze (remoto).
 
+Questionario SUS redirigido desde Maze.
+
+Eye-tracking (heatmap + AOI) en dos pantallas clave.
+
+Checklist de usabilidad.
  
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
-
-
-
-
+  | id.usuario | Sexo/edad | Ocupación | Experiencia internet  | Plataforma | Perfil cubierto | Test | SUS score |
+  | ---------- | --------- | --------- | --------------------  | ---------- | --------------- | ---- | --------- |
+  |     01     |    M/22   | Estudiante Diseño    |      Intermedio       |   Móvil iOS  | Usuario ocasional | A | 80,0 |
+  |     02     |    F/25   | Diseñador gráfico |         Avanzado           |    Desktop macOS   | Experto UI | A | 75,0 |
+  |     03     |    M/35   | Contable  |       Bajo         |   Portátil Win  | Usuario poco hábil | A | 72,5 |
+  |     04     |    M/40   | Profesor  |       Intermedio         |    Tablet Android   | Usuario ocasional | A | 85,0 |
+  |     05     |    M/19   | Est. Ingeniería  |       Avanzado        |    Portátil Linux   | Usuario poco hábil | B | 70,0 |
+  |     06     |    M/29   | Desarrollador web  |       Avanzado        |    Desktop Win   | Usuario experto | B | 68,0 |
+  |     07     |    M/33   | Enfermera   |       Intermedio         |    Móvil Android   | Usuario poco hábil | B | 66,0 |
+  |     08     |    M/46   | Comerciante  |       Bajo         |    Portátil Win   | Usuario poco hábil | B | 72,0 |
 
 #### Resultados obtenidos
 
