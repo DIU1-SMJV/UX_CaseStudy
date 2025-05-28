@@ -14,7 +14,7 @@
 
 
 
-![]([Áreas%20de%20Interés%20(AoI).PNG](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/Logotipo.png))
+![](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/Logotipo.png)
 
 [Ecopick](https://github.com/VictorNievas/UX_CaseStudy)
 
