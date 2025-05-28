@@ -320,26 +320,6 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
 
 
-
-<br>
-
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
 <br>
 
 ## Conclusiones finales & Valoración de las prácticas
