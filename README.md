@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Mercados ecológicos )
 
 Grupo: DIU1_SMJV.  Curso: 2024/25 
 
-Actualizado: 08/05/2025
+Actualizado: 28/05/2025
 
 Proyecto: 
 
