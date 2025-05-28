@@ -69,6 +69,7 @@ Instrucciones para participantes:
 ![AoI2](Áreas%20de%20Interés%20(AoI)%202.PNG)
 
 - Usability Report del Caso B, con toda la información recabada del caso B
+- Para acceder al usability report pulse [aquí](Usability-Report-template.md)
 
 - Conclusiones
 
