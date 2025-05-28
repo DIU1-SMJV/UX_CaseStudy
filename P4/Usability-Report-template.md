@@ -24,7 +24,7 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo SMJV explicar brevemente vuestra experiencia ]
+El informe ha sido realizado por el equipo SMJV, se han encontrado ciertos problemas durante la realización del report ya que algunas de las funciones de ecopick no estaban demasiado avanzadas por lo que ciertas pruebas han mostrado puntuaciones relativamente bajas.
 
 
 
@@ -38,7 +38,7 @@
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
+El propósito de la app
 
  
 
