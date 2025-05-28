@@ -40,6 +40,11 @@ Instrucciones para participantes:
 3. Responder a 3 preguntas rápidas de opinión.
 4. Rellenar el cuestionario SUS
 
+  | Prototipo | Puntuación tareas | Puntuación preguntas |
+  | ---------- | --------- | --------- |
+  |     A     |    78,1   | Excellent |
+  |     B     |    69,0   | Good |
+
 - Realización del Cuestionario SUS para usuarios y casos A y B.
 
   | Prototipo | Media SUS | Etiqueta SUS |
