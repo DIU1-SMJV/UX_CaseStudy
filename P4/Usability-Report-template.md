@@ -6,9 +6,9 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (ECOPICK )
+### ECOPICK
 
-### (23-05-25)
+### 23-05-25
 
 
 
@@ -16,7 +16,7 @@
 
 [img Proyecto]
 
-[Ecopick](https://github.com/VictorNievas/UX_CaseStudy/tree/master)
+[Ecopick](https://github.com/VictorNievas/UX_CaseStudy)
 
 
 
