@@ -8,13 +8,13 @@
   | id.usuario | Sexo/edad | Ocupación | Experiencia internet  | Plataforma | Perfil cubierto | Test | SUS score |
   | ---------- | --------- | --------- | --------------------  | ---------- | --------------- | ---- | --------- |
   |     01     |    M/22   | Estudiante Diseño    |      Intermedio       |   desktop  | Perfil cubierto | Test | SUS score |
-  |     02     |    F/25   | Diseñador gráfico |         Bajo          |    móvil   | Perfil cubierto | Test | SUS score |
-  |     03     |    M/35   | Contable  |       Avanzado        |   desktop  | Perfil cubierto | Test | SUS score |
-  |     04     |    M/40   | Profesor  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
-  |     05     |    M/19   | Estudios  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
-  |     06     |    M/29   | Estudios  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
-  |     07     |    M/33   | Estudios  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
-  |     08     |    M/46   | Comerciante  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
+  |     02     |    F/25   | Diseñador gráfico |         Avanzado           |    móvil   | Perfil cubierto | Test | SUS score |
+  |     03     |    M/35   | Contable  |       Bajo         |   desktop  | Perfil cubierto | Test | SUS score |
+  |     04     |    M/40   | Profesor  |       Intermedio         |    móvil   | Perfil cubierto | Test | SUS score |
+  |     05     |    M/19   | Est. Ingeniería  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
+  |     06     |    M/29   | Desarrollador web  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
+  |     07     |    M/33   | Enfermera   |       Intermedio         |    móvil   | Perfil cubierto | Test | SUS score |
+  |     08     |    M/46   | Comerciante  |       Bajo         |    móvil   | Perfil cubierto | Test | SUS score |
 
 - Diseño de las pruebas
 - Realización del Cuestionario SUS para usuarios y casos A y B.
