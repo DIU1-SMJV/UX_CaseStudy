@@ -6,9 +6,9 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### (ECOPICK )
 
-### (Fecha)
+### (23-05-25)
 
 
 
@@ -16,7 +16,7 @@
 
 [img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+[Ecopick](https://github.com/VictorNievas/UX_CaseStudy/tree/master)
 
 
 
@@ -24,7 +24,7 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+[Informe realizado por Equipo SMJV explicar brevemente vuestra experiencia ]
 
 
 
