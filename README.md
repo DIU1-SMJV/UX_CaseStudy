@@ -327,9 +327,6 @@ Tras la realización del cuestionario SUS a los usuarios descritos anteriormente
   |     A     |    78,1   | Excellent |
   |     B     |    69,0   | Good |
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx).
-
-
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
