@@ -7,14 +7,14 @@
 
   | id.usuario | Sexo/edad | Ocupación | Experiencia internet  | Plataforma | Perfil cubierto | Test | SUS score |
   | ---------- | --------- | --------- | --------------------  | ---------- | --------------- | ---- | --------- |
-  |     01     |    M/22   | Estudiante Diseño    |      Intermedio       |   desktop  | Perfil cubierto | Test | SUS score |
-  |     02     |    F/25   | Diseñador gráfico |         Avanzado           |    móvil   | Perfil cubierto | Test | SUS score |
-  |     03     |    M/35   | Contable  |       Bajo         |   desktop  | Perfil cubierto | Test | SUS score |
-  |     04     |    M/40   | Profesor  |       Intermedio         |    móvil   | Perfil cubierto | Test | SUS score |
-  |     05     |    M/19   | Est. Ingeniería  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
-  |     06     |    M/29   | Desarrollador web  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
-  |     07     |    M/33   | Enfermera   |       Intermedio         |    móvil   | Perfil cubierto | Test | SUS score |
-  |     08     |    M/46   | Comerciante  |       Bajo         |    móvil   | Perfil cubierto | Test | SUS score |
+  |     01     |    M/22   | Estudiante Diseño    |      Intermedio       |   Móvil iOS  | Usuario ocasional | A | SUS score |
+  |     02     |    F/25   | Diseñador gráfico |         Avanzado           |    Desktop macOS   | Experto UI | A | SUS score |
+  |     03     |    M/35   | Contable  |       Bajo         |   Portátil Win  | Usuario poco hábil | A | SUS score |
+  |     04     |    M/40   | Profesor  |       Intermedio         |    Tablet Android   | Usuario ocasional | A | SUS score |
+  |     05     |    M/19   | Est. Ingeniería  |       Avanzado        |    Portátil Linux   | Usuario poco hábil | B | SUS score |
+  |     06     |    M/29   | Desarrollador web  |       Avanzado        |    Desktop Win   | Usuario experto | B | SUS score |
+  |     07     |    M/33   | Enfermera   |       Intermedio         |    Móvil Android   | Usuario poco hábil | B | SUS score |
+  |     08     |    M/46   | Comerciante  |       Bajo         |    Portátil Win   | Usuario poco hábil | B | SUS score |
 
 - Diseño de las pruebas
 - Realización del Cuestionario SUS para usuarios y casos A y B.
