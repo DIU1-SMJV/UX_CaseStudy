@@ -16,6 +16,7 @@
 - Diseño de las pruebas
 Se han diseñado una serie de pruebas en Maze para las aplicaciones de Ecogollo y Ecopick
 
+
   | Orden | Tarea | Criterio de éxito |
   | ---------- | --------- | --------- |
   |     1     |    Inicia sesión   | Pantalla "Sesion iniciada"    |
@@ -23,6 +24,21 @@ Se han diseñado una serie de pruebas en Maze para las aplicaciones de Ecogollo 
   |     3     |    Accede al carrito y pulsa “Comprar”   | Pantalla Carrito  |
   |     4     |    Explora libremente la aplicación durante ~1 minuto   | "Finalizar"  |
 
+Preguntas post-tarea:
+1. ¿Te ha resultado clara la navegación?
+Si/No
+
+2. ¿Qué te ha parecido esta app?
+Respuesta abierta
+
+3. Describe esta app en una sola palabra.
+Respuesta abierta
+
+Instrucciones para participantes:
+1. Entrar en el enlace de Maze: https://t.maze.co/391889958
+2. Completar las 4 tareas que aparecerán en pantalla.
+3. Responder a 3 preguntas rápidas de opinión.
+4. Rellenar el cuestionario SUS
 
 - Realización del Cuestionario SUS para usuarios y casos A y B.
 - Tabla A/B Testing con resultados para A y B
