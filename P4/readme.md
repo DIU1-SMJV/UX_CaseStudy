@@ -73,6 +73,3 @@ Instrucciones para participantes:
 - Conclusiones
 
   Tras realizar las pruebas descritas anteriormente(SUS,usability checklist, tareas y preguntas A/B testing en Maze) a 8 usuarios(4 para cada proyecto), hemos concluido que el proyecto A tiene un trabajo mejor implementado respecto al proyecto B, con una media total de 76 para A y 64 para B, pero ambos necesitan mejorar para considerarse la aplicación mejor imaginable. Es muy importante hacer este tipo de pruebas y tener en cuenta las opiniones de los usuarios para mejorar el trabajo realizado, o directamente rehacerlo si no funciona positivamente.
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
