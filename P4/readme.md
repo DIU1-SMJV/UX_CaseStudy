@@ -56,6 +56,11 @@ Instrucciones para participantes:
   |     Eye-tracking     | 10 | 10 | 10 |
 
 - Eye Tracking para B
+![HeatMap 1](HeatMap.png)
+![AoI](Áreas%20de%20Interés%20(AoI).PNG)
+![HeatMap 2](HeatMap2.PNG)
+![AoI2](Áreas%20de%20Interés%20(AoI)%202.PNG)
+
 - Usability Report del Caso B, con toda la información recabada del caso B
 
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
