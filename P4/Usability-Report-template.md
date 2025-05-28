@@ -83,10 +83,6 @@ Checklist de usabilidad.
 
   | id.usuario | Sexo/edad | Ocupación | Experiencia internet  | Plataforma | Perfil cubierto | Test | SUS score |
   | ---------- | --------- | --------- | --------------------  | ---------- | --------------- | ---- | --------- |
-  |     01     |    M/22   | Estudiante Diseño    |      Intermedio       |   Móvil iOS  | Usuario ocasional | A | 80,0 |
-  |     02     |    F/25   | Diseñador gráfico |         Avanzado           |    Desktop macOS   | Experto UI | A | 75,0 |
-  |     03     |    M/35   | Contable  |       Bajo         |   Portátil Win  | Usuario poco hábil | A | 72,5 |
-  |     04     |    M/40   | Profesor  |       Intermedio         |    Tablet Android   | Usuario ocasional | A | 85,0 |
   |     05     |    M/19   | Est. Ingeniería  |       Avanzado        |    Portátil Linux   | Usuario poco hábil | B | 70,0 |
   |     06     |    M/29   | Desarrollador web  |       Avanzado        |    Desktop Win   | Usuario experto | B | 68,0 |
   |     07     |    M/33   | Enfermera   |       Intermedio         |    Móvil Android   | Usuario poco hábil | B | 66,0 |
@@ -94,19 +90,20 @@ Checklist de usabilidad.
 
 #### Resultados obtenidos
 
+SUS individuales: 70 / 68 / 66 / 72 → Media 69,0 (Good).
 
+Tareas Maze: 55 % de éxito (3 de 4 completan el flujo completo).
 
-(resultado de SUS)
+Preguntas Maze: media claridad 62 %; 3/4 usuarios califican la navegación “clara”.
 
+Checklist: 70 (Good).
 
+Resultado del Eye tracking
 
-(resultado de eyetracking)
-
-
-
-
-
-
+![HeatMap 1][HeatMap.png](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/HeatMap.png)
+![AoI][Áreas%20de%20Interés%20(AoI).PNG](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/HeatMap2.PNG)
+![HeatMap 2][HeatMap2.PNG](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/%C3%81reas%20de%20Inter%C3%A9s%20(AoI).PNG)
+![AoI2][Áreas%20de%20Interés%20(AoI)%202.PNG](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/%C3%81reas%20de%20Inter%C3%A9s%20(AoI)%202.PNG)
 
 
 
