@@ -52,7 +52,7 @@ Instrucciones para participantes:
   | Test/Métrica | A | B | Ganadora |
   | ---------- | --------- | --------- | --------- |
   |     SUS     | 78,1 - Excellent | 69,0 - Good | A |
-  |     Usability Checklist | - | 70 - Good | B |
+  |     Usability Checklist | 76 - Good | 70 - Good | B |
 
 - Eye Tracking para B
 ![HeatMap 1](HeatMap.png)
