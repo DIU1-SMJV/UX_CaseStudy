@@ -7,8 +7,8 @@
 
   | id.usuario | Sexo/edad | Ocupación | Experiencia internet  | Plataforma | Perfil cubierto | Test | SUS score |
   | ---------- | --------- | --------- | --------------------  | ---------- | --------------- | ---- | --------- |
-  |     01     |    M/22   | Médico    |      Intermedio       |   desktop  | Perfil cubierto | Test | SUS score |
-  |     02     |    F/25   | Psicóloga |         Bajo          |    móvil   | Perfil cubierto | Test | SUS score |
+  |     01     |    M/22   | Estudiante Diseño    |      Intermedio       |   desktop  | Perfil cubierto | Test | SUS score |
+  |     02     |    F/25   | Diseñador gráfico |         Bajo          |    móvil   | Perfil cubierto | Test | SUS score |
   |     03     |    M/35   | Contable  |       Avanzado        |   desktop  | Perfil cubierto | Test | SUS score |
   |     04     |    M/40   | Profesor  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
   |     05     |    M/19   | Estudios  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
