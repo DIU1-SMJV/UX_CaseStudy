@@ -125,4 +125,4 @@ Resultado del Eye tracking
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-La combinación Maze + SUS + eye-tracking resultó muy útil para detectar los puntos fuertes y débiles de esta web, tanto es así que se ve en los resultados claramente qué cambios se deberían realizar para mejorar la experiencia de los usuarios a la hora de comprar productos en Ecopick.
+- La combinación Maze + SUS + eye-tracking resultó muy útil para detectar los puntos fuertes y débiles de esta web, tanto es así que se ve en los resultados claramente qué cambios se deberían realizar para mejorar la experiencia de los usuarios a la hora de comprar productos en Ecopick.
