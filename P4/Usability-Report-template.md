@@ -8,10 +8,7 @@
 
 ### ECOPICK
 
-### 23-05-25
-
-
-
+### 28-05-25
 
 
 ![](https://github.com/DIU1-SMJV/UX_CaseStudy/blob/master/P4/Logotipo.png)
