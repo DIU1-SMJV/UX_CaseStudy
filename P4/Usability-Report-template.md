@@ -24,7 +24,7 @@
 
 ### Realizado por:
 
-El informe ha sido realizado por el equipo SMJV, se han encontrado ciertos problemas durante la realización del report ya que algunas de las funciones de ecopick no estaban demasiado avanzadas por lo que ciertas pruebas han mostrado puntuaciones relativamente bajas.
+- El informe ha sido realizado por el equipo SMJV, se han encontrado ciertos problemas durante la realización del report ya que algunas de las funciones de ecopick no estaban demasiado avanzadas por lo que ciertas pruebas han mostrado puntuaciones relativamente bajas.
 
 
 
@@ -38,7 +38,7 @@ El informe ha sido realizado por el equipo SMJV, se han encontrado ciertos probl
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-EcoPick es una tienda online de alimentación basada en productos ecológicos.
+- EcoPick es una tienda online de alimentación basada en productos ecológicos.
 • Objetivo de negocio: Promover el consumo responsable.
 • Público: Cualquier tipo de usuario que busque productos ecológicos.
 • Flujos críticos: registro / login, exploración de catálogo, añadir al carrito y checkout.
@@ -49,8 +49,8 @@ EcoPick es una tienda online de alimentación basada en productos ecológicos.
 
 ## 2 RESUMEN EJECUTIVO
 
-Se evaluó el prototipo B (EcoPick) con cuatro usuarios mediante Maze (tareas + encuesta), SUS y eye-tracking.
-Resultados principales:
+- Se evaluó el prototipo B (EcoPick) con cuatro usuarios mediante Maze (tareas + encuesta), SUS y eye-tracking.
+- Resultados principales:
 
   | Indicador | Valor | Nivel |
   | ---------- | --------- | --------- |
@@ -60,23 +60,23 @@ Resultados principales:
   |     Preguntas Maze     |    62   | Aceptable  |
   |     Eye Tracking     |    72   | Aprobado  |
 
-Problemas detectados (alto impacto)
-Falta de accesibilidad (modo oscuro)
-Falta feedback tras “Agregar al carrito”.
+- Problemas detectados (alto impacto)
+- Falta de accesibilidad (modo oscuro)
+- Falta feedback tras “Agregar al carrito”.
 
 
 ## 3 METODOLOGIA 
 
 #### Metodología de usabililidad
 
-Técnicas aplicadas
-Tareas guiadas en Maze (remoto).
+- Técnicas aplicadas
+- Tareas guiadas en Maze (remoto).
 
-Questionario SUS redirigido desde Maze.
+- Questionario SUS redirigido desde Maze.
 
-Eye-tracking (heatmap + AOI) en dos pantallas clave.
+- Eye-tracking (heatmap + AOI) en dos pantallas clave.
 
-Checklist de usabilidad.
+- Checklist de usabilidad.
  
 
 #### Test de usuarios: Participantes
@@ -110,33 +110,19 @@ Resultado del Eye tracking
 ## 4 CONCLUSIONES 
 
 
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
-
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
-
+- No todas las funcionalidades que se esperaban estaban implementadas, por lo tanto algunas de las tareas que se han propuesto en el maze se han tenido que evaluar de forma "artificial" es decir el usuario hacía clic en los iconos pero no había una interacción integrada.
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
-
-
+- Como puntos positivos podemos decir que la aplicación capta perfectamente la atención de los usuarios, después de ver los resultados del eyetracking se nota que todos los elementos están correctamente colocados para que los usuarios potenciales centren su atención en los elementos más importantes. Además la paleta verde y tipografía refuerzan la temática ecológica.
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
-
-
+- Se propone añadir un modo oscuro para mejorar la accesibilidad de los usuarios, además de seguir incluyendo más interacciones entre los distintos elementos de la web para que las futuras pruebas puedan ser lo más realistas posibles.
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+La combinación Maze + SUS + eye-tracking resultó muy útil para detectar los puntos fuertes y débiles de esta web, tanto es así que se ve en los resultados claramente qué cambios se deberían realizar para mejorar la experiencia de los usuarios a la hora de comprar productos en Ecopick.
