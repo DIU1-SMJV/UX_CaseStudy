@@ -14,6 +14,16 @@
   |     08     |    M/46   | Comerciante  |       Bajo         |    Portátil Win   | Usuario poco hábil | B | SUS score |
 
 - Diseño de las pruebas
+Se han diseñado una serie de pruebas en Maze para las aplicaciones de Ecogollo y Ecopick
+
+  | Orden | Tarea | Criterio de éxito |
+  | ---------- | --------- | --------- |
+  |     1     |    Inicia sesión   | Pantalla "Sesion iniciada"    |
+  |     2     |    Añade cualquier producto al carrito   | Carrito muestra 1 articulo |
+  |     3     |    Accede al carrito y pulsa “Comprar”   | Pantalla Carrito  |
+  |     4     |    Explora libremente la aplicación durante ~1 minuto   | "Finalizar"  |
+
+
 - Realización del Cuestionario SUS para usuarios y casos A y B.
 - Tabla A/B Testing con resultados para A y B
 - Eye Tracking para B
