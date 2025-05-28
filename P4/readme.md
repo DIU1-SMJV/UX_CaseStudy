@@ -4,12 +4,16 @@
 >>> Se publicará la lista de grupos y los respectivos GitHub
 
 - Users. Elección y características de los usuarios reclutados
-  | id.usuario | Sexo/edad | Ocupación | Experiencia internet  | Plataforma | Perfil cubierto | Test | SUS score |
-  | ---------- | --------- | --------- | --------------------  | ---------- | --------------- | ---- | --------- |
-  |     01     |    M/62   | Médico    |      Intermedio       |   desktop  | Perfil cubierto | Test | SUS score |
-  |     02     |    F/54   | Psicóloga |         Bajo          |    móvil   | Perfil cubierto | Test | SUS score |
-  |     03     |    M/21   | Estudios  |       Avanzado        |   desktop  | Perfil cubierto | Test | SUS score |
-  |     04     |    M/22   | Estudios  |       Avanzado        |    móvil   | Perfil cubierto | Test | SUS score |
+| id | Sexo / Edad | Ocupación | Experiencia Internet | Plataforma habitual | Perfil | TEST | SUS score |
+|----|-------------|-----------|----------------------|---------------------|--------|----------|-----------|
+| U1 | F / 22 | Estudiante Diseño | Intermedio | Móvil iOS | Early adopter | **A** | 72 |
+| U2 | M / 25 | Diseñador gráfico | Avanzado | Desktop macOS | Experto UI | **A** | 65 |
+| U3 | F / 35 | Contable | Bajo | Portátil Win | Usuario medio | **A** | 60 |
+| U4 | M / 40 | Profesor | Intermedio | Tablet Android | Usuario ocasional | **A** | 75 |
+| U5 | F / 19 | Est. Ingeniería | Avanzado | Portátil Linux | Geek | **B** | 80 |
+| U6 | M / 29 | Desarrollador web | Avanzado | Desktop Win | Experto tech | **B** | 78 |
+| U7 | F / 33 | Enfermera | Intermedio | Móvil Android | Busy user | **B** | 70 |
+| U8 | M / 46 | Comerciante | Bajo | Portátil Win | Usuario poco hábil | **B** | 65 |
 
 - Diseño de las pruebas
 - Realización del Cuestionario SUS para usuarios y casos A y B.
